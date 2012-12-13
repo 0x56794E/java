@@ -1,0 +1,76 @@
+﻿
+What is your pet's name?
+Where were you born?
+What is the name of your school?
+What is your favorite restaurant?
+Who is your favorite singer?
+What is your favorite town?
+What is your favorite song?
+What is your favorite film?
+What is your favorite book?
+Where was your first job?
+Where did you grow up?
+What is your primary frequent flyer number?
+What is your library card number?
+What was your first phone number?
+What was your first teacher’s name?
+Where did you meet your spouse?
+What is your favorite pastime?
+What is your favorite sports team?
+What was your high school mascot?
+What is your father's middle name?
+What make was your first car or bike?
+What was the name of your first school?
+What is your mother's birthplace?
+Who is you childhood best friend?
+Who is your favorite teacher?
+Who is your favorite historical person?
+What is your grandfather's occupation?
+When were you married?
+What is your grandma's maiden name?
+What is your father's nickname?
+What is your grandma's occupation?
+What was the first overseas city you visited?
+When was your first trip abroad?
+What is your favorite video game?
+What is your favorite song?
+What is your favorite drink?
+What was the name of the first book you read?
+Who was your favorite kindergarten teacher?
+What street did you live on in third grade?
+What is your oldest sibling's birthday month and year? (e.g., January 1990)
+What is your youngest sibling's birthday month and year? (e.g., January 1990)
+What is the middle name of your youngest child?
+What is your oldest sibling's middle name?
+What is your youngest sibling's middle name?
+What school did you attend for sixth grade?
+What was your childhood phone number including area code? (e.g., 000-000-0000)
+What is your oldest cousin's first and last name?
+What was the name of your first stuffed animal?
+In what city or town did your mother and father meet? 
+Where did you have your first kiss? 
+What was the last name of your third grade teacher?
+In what city does your nearest sibling live?
+What is the name of the place your wedding reception was held?
+What is the name of a college you applied to but didn't attend?
+Where were you when you first heard about 9/11?
+What is the name of the company of your first job?
+What was your favorite place to visit as a child?
+What is the country of your ultimate dream vacation?
+To what city did/will you go on your honeymoon?
+What time of the day were you born?
+What was your dream job as a child? 
+What is the street number of the house you grew up in?
+What is the license plate (registration) of your dad's first car?
+What was the first concert you attended?
+Where did you vacation last year?
+What is the name of your grandmother's dog? 
+What color is your current pet?
+What is your preferred musical genre? 
+In what city and country do you want to retire? 
+What is the name of the first undergraduate college you attended?
+What year did you graduate from High School?
+What month and day is your anniversary? (e.g., January 2)
+What is your mother's middle name? 
+In what city and country do you want to retire?
+
